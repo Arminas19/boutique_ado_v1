@@ -12,7 +12,7 @@ heroku login -i
 email: armeska14@gmail.com
 pass: @Nitro50
 
-heroku git remote: -a arminas-boutique-ado
+heroku git:remote -a arminas-boutique-ado
 
 git push heroku master
 
