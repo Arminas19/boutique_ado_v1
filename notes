@@ -5,3 +5,14 @@ password: arminas1
 todo's:
 go back to 'The Shopping Bag' walkthrough project section
 to finish the Bug Fix
+
+push to heroku - 
+
+heroku login -i
+email: armeska14@gmail.com
+pass: @Nitro50
+
+heroku git remote: -a arminas-boutique-ado
+
+git push heroku master
+
