@@ -15,4 +15,7 @@ pass: @Nitro50
 heroku git:remote -a arminas-boutique-ado
 
 git push heroku master
+        or
+git push heroku main
+
 
